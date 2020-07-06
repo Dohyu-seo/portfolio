@@ -7,7 +7,10 @@
 #### [Skill]
 
 * ##### SQL
-
+    * mybatis에 SQL 맵핑하여 사용가능
+    * (Oracle)SQL Developer 서브질의, CRUD 사용가능
+        * Create, Read, Update, Delete
+    * DDL 정의 , DML 조작, DCL 제어 사용가능
 * ##### JAVA
 
 * ##### HTML
