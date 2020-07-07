@@ -25,3 +25,14 @@
     
 * ##### *jQuery*
     * ajax 비동기 통신 활용 가능
+
+#### [개발 Tool 및 개발환경]
+Project : 책을 통해 이야기하는 SNS
+Framework : Spring 4.3.25
+Design pattern : Spring MVC model 2
+Java Version : 1.8
+WAS : Tomcat 8.5
+DBMS : Oracle 11g
+ORM : mybatis 3.4.6
+View : HTML5, CSS3, Javascript, jQuery, Ajax
+API : 인터파크 도서 API, API서울 열린데이터광장
