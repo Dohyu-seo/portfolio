@@ -34,5 +34,5 @@
     WAS : Tomcat 8.5
     DBMS : Oracle 11g
     ORM : mybatis 3.4.6
-    View : HTML5, CSS3, Javascript, jQuery, Ajax
+    View : HTML5, CSS3, Javascript, jQuery, Ajax, Node.js
     API : 인터파크 도서 API, API서울 열린데이터광장
